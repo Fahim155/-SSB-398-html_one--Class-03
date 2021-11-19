@@ -1,0 +1,62 @@
+h1{
+
+
+	background-color: cyan;
+	text-align: center;
+}
+
+
+
+.box{
+
+	width: 100px;
+	height: 100px;
+
+
+}
+
+
+.red{
+
+background-color: red;
+margin-bottom: 10px;
+}
+.green{
+
+background-color: green;
+
+margin-left: 100px;
+margin-bottom: 10px;
+
+}
+
+
+.gray{
+background-color: gray;
+
+margin-left:210px;
+
+margin-bottom: 10px;
+
+
+}
+
+.orange{
+
+
+	background-color: orange;
+	
+     margin-left:320px;
+     margin-bottom: 10px;
+}
+
+.purple{
+
+
+	background-color: purple;
+	
+	margin-left:430px;
+	margin-bottom: 10px;
+}
+
+

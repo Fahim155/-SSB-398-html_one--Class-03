@@ -1,0 +1,54 @@
+body{
+
+	margin:  25px;
+
+
+}
+
+
+
+.header{
+
+	min-height: 100px;
+	background-color: skyblue;
+
+}
+
+.container{
+
+
+	overflow: hidden;
+
+
+}
+
+
+.blog{
+
+	width: 60%;
+	min-height: 100px;
+	background-color: darkgray;
+	float: left;
+
+}
+
+
+.contact{
+	width: 40%;
+	min-height: 100px;
+	background-color: green;
+
+	float: right;
+	
+
+
+
+}
+
+
+.footer{
+
+	min-height: 100px;
+	background-color: orange;
+	
+}

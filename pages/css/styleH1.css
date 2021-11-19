@@ -1,0 +1,31 @@
+.header{
+
+height: 100px;
+background-color: green;
+  
+}
+
+.header1{
+	height: 100px;
+	background-color: gray;
+
+
+}
+
+.header2{
+	min-height: 10px;
+	background-color:brown;
+
+
+}
+
+
+.header3{
+	max-height: 15px;
+	background-color:orange;
+
+
+
+
+}
+

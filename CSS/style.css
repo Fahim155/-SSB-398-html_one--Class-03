@@ -1,0 +1,46 @@
+h1{
+	
+text-align: center;
+	background-color: skyblue;
+	color: green;
+
+
+}
+
+
+
+h3{
+	font-size: 35px;
+	text-align: center;
+	background-color: skyblue;
+	color: brown;
+
+}
+
+.ok h2{
+
+
+	display: inline-block;
+}
+.ok h6{
+
+
+	display: inline;
+}
+
+.ok h5{
+
+
+	display: inline;
+}
+
+
+.ok h4{
+
+
+
+	display: none ;
+}
+
+
+
